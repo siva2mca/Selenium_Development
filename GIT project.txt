@@ -1,3 +1,4 @@
 1. Select a project
 2. CLick the project 
 3. Commit the project
+4. Push the project(newline)
